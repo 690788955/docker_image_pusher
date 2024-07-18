@@ -1,1 +1,1 @@
-nginx:latest
+easzlab/kubeasz:3.5.0
