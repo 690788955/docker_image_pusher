@@ -1,1 +1,1 @@
-xhongc/music_tag_web:latest
+gcr.io/cadvisor/cadvisor:v0.49.1 
