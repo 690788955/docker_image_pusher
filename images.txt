@@ -1,1 +1,2 @@
-gcr.io/cadvisor/cadvisor:v0.49.1 
+python:3.11-slim
+python:3.11-windowsservercore
